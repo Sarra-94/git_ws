@@ -6,9 +6,9 @@ function App() {
   return (
     <div className="App">
       <Haythem />
-    
     </div>
   );
+
 }
 
 export default App;
